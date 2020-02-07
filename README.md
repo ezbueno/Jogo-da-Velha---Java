@@ -1,5 +1,5 @@
 # Jogo-da-Velha---Java
-Jogo da Velha desenvolvido em Java
+Jogo da Velha desenvolvido na linguagem Java
 
 Lembrete:
 
